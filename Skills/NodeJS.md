@@ -5,8 +5,8 @@
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases: 👂 heard
-  - Event loop microtasks and macrotasks: 👂 used
-  - Garbage collection: 👂 used
+  - Event loop microtasks and macrotasks: 🖐️ used
+  - Garbage collection: 🖐️ used
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -21,23 +21,23 @@
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection: 👂 used
-  - DI containers: 👂 used
+  - Dependency injection: 🖐️ used
+  - DI containers: 🖐️ used
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 🎓 used
-  - Node.js CLI: 🎓 used
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown: 👂 heard
   - Clustering
-  - Watch filesystem changes with --watch: 👂 used
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 👂 heard
   - Web Streams API: 👂 heard
-  - Crypto API: 👂 used
+  - Crypto API: 🖐️ used
   - Password hashing with crypto.scrypt: 👂 heard
-  - Web Crypto API: 👂 used
+  - Web Crypto API: 🖐️ used
   - File system API (sync and async): 👂 heard
   - Copy folder recursively
   - Worker threads
