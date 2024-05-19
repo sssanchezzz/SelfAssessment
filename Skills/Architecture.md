@@ -1,12 +1,12 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components k
-  - Directories k
-  - GRASP h
-  - SOLID u
-  - GoF patterns h
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
@@ -14,14 +14,14 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage k
+  - Code coverage: 🎓 known
   - Cohesion
-  - Coupling h
+  - Coupling: 👂 heard
   - Cyclomatic complexity
-  - Reliability u
-  - Quality u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
   - Availability
-  - Flexibility u
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -31,31 +31,31 @@
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) u
-  - Clean architecture u
-  - Domain-driven design (DDD) u
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 🖐️ used
   - Pub/sub
-  - Message brocker k
+  - Message brocker: 🎓 known
   - Agent
   - Service locator
-  - Message Queue (MQ) k
+  - Message Queue (MQ): 🎓 known
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML k
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing k
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
-  - IaaS k
-  - PaaS k
-  - SaaS k
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -64,7 +64,7 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design k
+  - System design: 🎓 known
   - Process modelling
   - Data modelling
   - Solution components
@@ -72,29 +72,29 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code k
-  - No-code k
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
-  - ACID k
+  - ACID: 🎓 known
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
+  - Understanding business needs: 🎓 known
   - Enterprise strategy
-  - Integration with subsystems k
+  - Integration with subsystems: 🎓 known
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices k
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence k
-  - OLAP k
-  - OLTP k
+  - Business Intelligence: 🎓 known
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
   - Conways Law
-  - Quality assurance k
+  - Quality assurance: 🎓 known
   - Engineering Hygiene

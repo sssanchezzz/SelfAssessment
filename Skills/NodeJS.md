@@ -3,12 +3,12 @@
 - Internals and concepts
   - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code k
+  - Nonblocking I/O and blocking code: 🎓 known
   - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks: 🖐️ used
   - Garbage collection: 🖐️ used
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks k
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
@@ -19,8 +19,8 @@
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
-  - Module-based permissions model k
-  - Isolation with modularity k
+  - Module-based permissions model: 🎓 known
+  - Isolation with modularity: 🎓 known
   - Dependency injection: 🖐️ used
   - DI containers: 🖐️ used
   - Coupling and cohesion
@@ -56,11 +56,11 @@
   - Generating crypto random UUID: 👂 heard
   - Module `node:url` vs `new URL`
   - Module `node:assert`
-  - Internationalization k
+  - Internationalization: 🎓 known
   - Blob, File, Buffer, module `node:buffer`: 🎓 known
   - Module `node:zlib`
 - Network
-  - Endpoint throttling k
+  - Endpoint throttling: 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates
@@ -83,7 +83,7 @@
   - XSS
   - Path traversal
   - CSRF: 👂 heard
-  - DNS k
+  - DNS: 🎓 known
   - SQL injection: 🎓 known
   - noDelay
   - keep-alive: 👂 heard
@@ -102,13 +102,13 @@
   - Console: 🖐️ used
   - Inspector
 - Data access
-  - Data access layer: u
+  - Data access layer: 🖐️ used
   - Repository: 🎓 known
   - Active record
   - Query builder: 👂 heard
   - Object-Relational Mapping: 🖐️ used
-  - CRUD u
-  - DTO u
+  - CRUD: 🖐️ used
+  - DTO: 🖐️ used
 - Error handling and debugging
   - `Error`: 🖐️ used
   - `error.cause`
@@ -123,7 +123,7 @@
   - Flame graph
   - Memory leaks: 🎓 known
   - Resource leaks: 🎓 known
-  - Data race k
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
