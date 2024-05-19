@@ -2,14 +2,14 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`: 👂 heard
-  - `String`
+  - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
-  - `Infinity`
-  - `NaN`
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
@@ -20,12 +20,12 @@
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
-  - Async generator: 🎓 known
+  - Async generator: 🖐️ used
   - Async iterator: 🖐️ used
   - Chaining: 🖐️ used
   - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
-  - Async IIFE
+  - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
   - `globalThis`: 🎓 known
   - `window`: 👂 heard
@@ -42,22 +42,22 @@
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
-  - Hoisting
+  - Hoisting: 🖐️ used
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `eval`: 🖐️ used
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
+  - Property descriptors: 🖐️ used
+  - Sealing properties: 🖐️ used
+  - Freezing properties: 🖐️ used
+  - Computed properties: 🖐️ used
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -92,25 +92,25 @@
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap`: 🖐️ used
+  - `WeakSet`: 🖐️ used
   - Typed arrays: 🖐️ used
   - Mixins: 🎓 known
-  - `Object.assign`
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
-  - `Math`
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - `Intl`: 🖐️ used
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
   - V8: 🖐️ used

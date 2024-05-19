@@ -1,31 +1,31 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
-  - Object-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
-  - Asynchronous programming
+  - Asynchronous programming: 👂 heard
   - Parallel programming: 👂 heard
-  - Reactive programming
-  - Functional-reactive (FRP)
+  - Reactive programming: 👂 heard
+  - Functional-reactive (FRP): 👂 heard
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
   - Black box
-  - Information hiding
-  - Aspect-oriented programming
+  - Information hiding: 👂 heard
+  - Aspect-oriented programming: 👂 heard
   - Anemic domain model
-  - Class composition
+  - Class composition: 👂 heard
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton: 🎓 known
+  - Singleton: 🖐️ used
   - Factory Method: 🖐️ used
   - Abstract Factory: 🖐️ used
   - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Observer: 🖐️ used
   - Strategy: 👂 heard
   - Facade: 👂 heard
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State
-  - Bridge
+  - Bridge: 👂 heard
   - Builder: 👂 heard
   - Prototype
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
   - Template Method
   - Visitor: 👂 heard
-  - Reactor
+  - Reactor: 👂 heard
   - Active object
   - Delegation

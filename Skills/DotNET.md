@@ -1,70 +1,70 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
+  - Strengths and weaknesses of .NET: 👂 heard
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
+  - Asynchronous and synchronous programming: 👂 heard
+  - Task-based asynchronous pattern: 👂 heard
+  - Garbage collection in .NET: 🎓 known
   - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR
+  - I/O-bound, CPU-bound tasks: 👂 heard
+  - Real-time applications with SignalR: 👂 heard
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
-  - Middleware and pipeline configuration
+  - .NET assemblies: 👂 heard
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 🖐️ used
+  - Dependency Injection in .NET: 🖐️ used
+  - Inversion of Control (IoC): 🖐️ used
+  - IoC containers in .NET: 🖐️ used
+  - Middleware and pipeline configuration: 👂 heard
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
+  - Command line interface (CLI) tools: 🖐️ used
+  - .NET CLI: 🖐️ used
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
-  - File system I/O operations
+  - File system I/O operations: 🖐️ used
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
-  - SignalR for real-time web functionality
+  - LINQ: 👂 heard
+  - SignalR for real-time web functionality: 👂 heard
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management
+  - Memory and resource management: 🎓 known
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
+  - HTTP/HTTPS support: 🎓 known
+  - WebSockets for real-time communication: 🎓 known
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML): 🎓 known
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
-  - Logging and tracing
+  - Unit testing with frameworks like xUnit, NUnit: 🎓 known
+  - Integration testing: 🎓 known
+  - Logging and tracing: 🎓 known
   - Application monitoring and telemetry
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: 🖐️ used
   - Dapper
-  - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - ADO.NET for database access: 🖐️ used
+  - Data modeling and migration: 🖐️ used
+  - Repository and Unit of Work patterns: 🖐️ used
+  - CRUD operations: 🖐️ used
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 🖐️ used
+  - Debugging and diagnostic tools: 🎓 known
   - Profiling and performance analysis
-  - Memory leak detection
+  - Memory leak detection: 👂 heard
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
@@ -72,57 +72,57 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
+  - Microservices architecture: 🎓 known
+  - Containerization with Docker: 🎓 known
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals: 🎓 known
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
   - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
-  - Attributes and annotations
+  - Data types and collections: 🎓 known
+  - Generics and extension methods: 🎓 known
+  - Attributes and annotations: 🎓 known
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
-  - Immutable data structures
+  - Immutable data structures: 🖐️ used
   - Pattern matching and discriminated unions
   - Functional-first design and development
   - Type providers and metaprogramming
-  - Asynchronous and parallel programming
+  - Asynchronous and parallel programming: 🎓 known
   - Using .NET libraries in `F#`
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
   - VB.NET syntax and language fundamentals
-  - Event-driven programming
+  - Event-driven programming: 🎓 known
   - COM interop and P/Invoke
   - XML and file handling
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals: 👂 heard
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
-  - Accessing .NET Framework classes in `C++`
+  - Accessing .NET Framework classes in `C++`: 👂 heard
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
-  - Working with Windows API
+  - Working with Windows API: 👂 heard
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
+  - .NET MAUI / Xamarin: 👂 heard
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity: 👂 heard
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: 👂 heard
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development: 👂 heard

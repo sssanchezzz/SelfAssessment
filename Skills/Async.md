@@ -18,7 +18,7 @@
   - Live locks: 👂 heard
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
-  - Actor Model
+  - Actor Model: 👂 heard
   - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
@@ -29,9 +29,9 @@
   - Async/await: 🖐️ used
   - Future
   - Deferred: 🎓 known
-  - Sync generator: 🎓 known
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
@@ -48,7 +48,7 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer: 👂 heard
+  - Observable/Observer: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform
@@ -78,9 +78,9 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
+  - RxJS library: 👂 heard
   - Promise.all: 🖐️ used
-  - Promise.allSettled: 🎓 known
+  - Promise.allSettled: 🖐️ used
   - Promise.race: 🖐️ used
   - Promise.any: 🖐️ used
   - Web Locks API
