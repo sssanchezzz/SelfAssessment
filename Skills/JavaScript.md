@@ -2,14 +2,14 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`: 👂 heard
-  - `String`
+  - `String` u
   - `Symbol`: 🖐️ used
-  - `Infinity`
-  - `NaN`
+  - `Infinity` u
+  - `NaN` u
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
@@ -20,12 +20,12 @@
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
-  - Async generator: 🎓 known
+  - Async generator: u
   - Async iterator: 🖐️ used
   - Chaining: 🖐️ used
   - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
-  - Async IIFE
+  - Async IIFE u
   - `global`: 🖐️ used
   - `globalThis`: 🎓 known
   - `window`: 👂 heard
@@ -42,22 +42,22 @@
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
-  - Hoisting
+  - Hoisting u
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `eval` u
+  - `static` u
+  - `Number.parseInt` u
+  - `Number.parseFloat` u
+  - Property descriptors u
+  - Sealing properties u
+  - Freezing properties u
+  - Computed properties u
+  - Instance class fields u
+  - Static class fields u
+  - Private class fields u
+  - Private class methods u
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -92,25 +92,25 @@
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap` u
+  - `WeakSet` u
   - Typed arrays: 🖐️ used
   - Mixins: 🎓 known
-  - `Object.assign`
+  - `Object.assign` u
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
-  - `Math`
+  - `Math` u
   - `Reflect`
-  - `Error`
+  - `Error` u
   - `Atomics`
-  - `JSON`
+  - `JSON` u
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - `Intl` u
+  - `Promise` u
+  - `console` u
   - Timers: 🖐️ used
 - Infrastructure
   - V8: 🖐️ used

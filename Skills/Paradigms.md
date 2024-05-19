@@ -1,31 +1,31 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
+  - Procedural programming: k
+  - Imperative programming: k
+  - Structured programming: k
+  - Non-structured programming: k
+  - Functional programming: k
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
-  - Object-based programming: 👂 heard
+  - Object-oriented programming: k
+  - Object-based programming: k
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming: 👂 heard
-  - Reactive programming
-  - Functional-reactive (FRP)
+  - Reactive programming h
+  - Functional-reactive (FRP) h
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
+  - Domain-specific languages h
+  - Multi-paradigm programming h
+  - Metaprogramming h
+  - Actor model h
+  - Lambda calculus h
   - Black box
-  - Information hiding
-  - Aspect-oriented programming
+  - Information hiding h
+  - Aspect-oriented programming h
   - Anemic domain model
-  - Class composition
+  - Class composition h
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) u
+  - Open–closed principle (OCP) u
+  - Liskov substitution principle (LSP) u
+  - Interface segregation principle (ISP) u
+  - Dependency inversion principle (DIP) u
 - Patterns
-  - Singleton: 🎓 known
+  - Singleton: u
   - Factory Method: 🖐️ used
   - Abstract Factory: 🖐️ used
   - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Observer: u
   - Strategy: 👂 heard
   - Facade: 👂 heard
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator h
   - State
-  - Bridge
+  - Bridge h
   - Builder: 👂 heard
   - Prototype
   - Composite
-  - Decorator
+  - Decorator h
   - Flyweight
   - Mediator
   - Memento
   - Template Method
   - Visitor: 👂 heard
-  - Reactor
+  - Reactor h
   - Active object
   - Delegation

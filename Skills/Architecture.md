@@ -1,12 +1,12 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity k
+  - Components k
+  - Directories k
+  - GRASP h
+  - SOLID u
+  - GoF patterns h
   - CQS
   - Leaking abstractions
   - Multiparadigm code
@@ -14,14 +14,14 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage k
   - Cohesion
-  - Coupling
+  - Coupling h
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability u
+  - Quality u
   - Availability
-  - Flexibility
+  - Flexibility u
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -31,31 +31,31 @@
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Inversion of control (IoC) u
+  - Dependency injection (DI) u
+  - Clean architecture u
+  - Domain-driven design (DDD) u
   - Pub/sub
-  - Message brocker
+  - Message brocker k
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) k
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML k
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing k
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS k
+  - PaaS k
+  - SaaS k
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -64,7 +64,7 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design k
   - Process modelling
   - Data modelling
   - Solution components
@@ -72,29 +72,29 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code k
+  - No-code k
   - Metric
   - Metric abuse
-  - ACID
+  - ACID k
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs k
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems k
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices k
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Business Intelligence k
+  - OLAP k
+  - OLTP k
   - Conways Law
-  - Quality assurance
+  - Quality assurance k
   - Engineering Hygiene

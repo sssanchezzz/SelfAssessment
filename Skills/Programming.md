@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
   - Algorithm: 🎓 known
   - Syntax
   - Semantics
-  - Abstraction
+  - Abstraction k
   - Paradigm: 👂 heard
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm k
+  - Programming paradigm k
+  - Programming language k
   - Contract
   - Module: 🖐️ used
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Library k
+  - Package k
+  - Component k
+  - Framework k
+  - Platform k
+  - Source code k
+  - Object code k
+  - Machine code k
   - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Software engineering k
+  - Decomposition k
+  - Control flow h
+  - Data flow h
+  - Code reuse k
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) k
+  - KISS principle k
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -39,7 +39,7 @@
   - Scalar
   - Literal
   - Expression: 🖐️ used
-  - Heap
+  - Heap k
   - Function: 🖐️ used
   - Procedure
   - Method: 🖐️ used
@@ -55,13 +55,13 @@
   - Assignment
   - Regular expression: 🖐️ used
   - Interface: 🖐️ used
-  - Namespaces
+  - Namespaces k
   - Call stack: 🖐️ used
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions k
+  - Coding conventions k
+  - Camel case k
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early: 🖐️ used
   - Fail-fast
@@ -89,16 +89,16 @@
   - Side effects: 🖐️ used
   - Closure: 🖐️ used
   - Partial application
-  - Currying
+  - Currying k
   - Higher order: 🎓 known
   - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
-  - Composition
-  - Pipe
+  - Composition k
+  - Pipe k
   - Memoize: 🎓 known
-  - Wrapper
+  - Wrapper k
   - Functor
   - Monad
   - Monoid
@@ -114,33 +114,33 @@
   - Collection: 🖐️ used
   - Set: 🖐️ used
   - Hash table: 👂 heard
-  - Linked list: 🎓 known
+  - Linked list: u
   - Doubly list: 🎓 known
   - Unrolled list
   - Circular list: 🎓 known
-  - Queue: 🎓 known
-  - Stack: 🎓 known
+  - Queue: u
+  - Stack: u
   - Deque: 🎓 known
-  - Tree: 🎓 known
+  - Tree: u
   - Graph: 🎓 known
   - Iterator: 🖐️ used
-  - Mutable state
-  - Immutable state
+  - Mutable state k
+  - Immutable state k
   - Serialization
   - String parsing: 🖐️ used
-  - JSON
-  - JSON5
-  - YAML
+  - JSON k
+  - JSON5 k
+  - YAML k
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - DNS k
+  - CDN k
+  - CORS k
+  - IPv4 k
+  - IPv6 k
+  - NAT k
+  - URL k
+  - URN k
+  - URI k
 - Process and tools
   - Compiler: 🖐️ used
   - Just-in-time compilation
@@ -150,10 +150,10 @@
   - Polyfill: 👂 heard
   - Interpreter
   - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
+  - Dynamic linking k
+  - Static linking k
+  - Runtime k
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -166,8 +166,8 @@
   - Unittesting: 🖐️ used
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker
-  - Kubernetes
+  - Docker k
+  - Kubernetes k
   - GCC
   - LLVM
 - Antipatterns
@@ -176,64 +176,64 @@
   - Soft code
   - Cryptic code
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity k
   - Action at a distance
   - Spaghetti: 👂 heard
-  - Silver bullet
-  - Not invented here
+  - Silver bullet h
+  - Not invented here k
   - Dead code: 👂 heard
   - Unreachable code: 🖐️ used
   - Duplicate code: 🖐️ used
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Nested loops k
+  - Long method/function/procedure k
+  - Long inheritance k
+  - Large class/file k
+  - Too many parameters k
+  - Pass-through parameters k
+  - Accumulate and fire k
+  - Use switch/case k
+  - Temporary field k
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments k
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode k
+  - V8 k
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts k
+  - Drivers k
+  - Kernel k
   - Ring
-  - Virtual memory
+  - Virtual memory u
   - File system
-  - Linux
-  - Unix
+  - Linux u
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII k
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 u
+  - ECMA k
   - ICANN
-  - ISO
-  - MIME
+  - ISO k
+  - MIME k
   - OWASP
-  - UTF-8
+  - UTF-8 k
   - W3C
   - ODMG
