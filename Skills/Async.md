@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
-  - `try..catch` u
-  - Non-blocking u
-  - Async I/O u
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,32 +13,32 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions h
-  - Dead locks h
-  - Live locks h
-  - Concurrent programming h
-  - Parallel programming h
+  - Race conditions: 👂 heard
+  - Dead locks: 👂 heard
+  - Live locks: 👂 heard
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread k
-  - Process k
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks u
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable u
-  - Promise u
-  - Async/await u
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
-  - Deferred k
-  - Sync generator k
-  - Async Generator k
-  - Async Iterator k
-  - Event u
+  - Deferred: 🎓 known
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal k
-  - Stream k
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility
-  - Middleware u
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,42 +47,42 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter u
-  - Observable/Observer h
-  - Readable k
-  - Writable k
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 👂 heard
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
-  - Async Pool k
-  - Async Queue k
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers u
-  - `setImmediate` k
-  - `nextTick` k
-  - AbortController u
-  - AbortSignal u
-  - Promise unhandled rejection u
-  - Promise double resolve u
-  - Atomics h
+  - Timers: 🖐️ used
+  - `setImmediate`: 🎓 known
+  - `nextTick`: 🎓 known
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
+  - Promise unhandled rejection: 🖐️ used
+  - Promise double resolve: 🖐️ used
+  - Atomics: 👂 heard
   - High resolution clock
-  - Callback hell k
-  - Promise hell k
-  - `ref()` and `unref()` h
-  - Error handling in async code u
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
+  - `ref()` and `unref()`: 👂 heard
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON streaming serialization u
-  - AsyncLocalStorage u
+  - JSON streaming serialization: 🖐️ used
+  - AsyncLocalStorage: 🖐️ used
   - AsyncResource
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all u
-  - Promise.allSettled k
-  - Promise.race u
-  - Promise.any u
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🎓 known
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
   - Web Locks API
   - IPC
   - Channel API
