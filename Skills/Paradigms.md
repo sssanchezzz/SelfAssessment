@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
-  - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
-  - Object-based programming: 👂 heard
-  - Generic programming: 👂 heard
-  - Concurrent computing: 👂 heard
+  - Procedural programming h
+  - Imperative programming h
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming h
+  - Prototype-based programming h
+  - Object-oriented programming h
+  - Object-based programming h
+  - Generic programming h
+  - Concurrent computing h
   - Asynchronous programming
-  - Parallel programming: 👂 heard
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 🖐️ used
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
   - Hidden class
-  - Object form: 🖐️ used
-  - Instance: 🖐️ used
+  - Object form u
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,20 +64,20 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton: 🎓 known
-  - Factory Method: 🖐️ used
-  - Abstract Factory: 🖐️ used
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
+  - Singleton k
+  - Factory Method u
+  - Abstract Factory u
+  - Adapter h
+  - Observer h
+  - Strategy h
+  - Facade h
   - Proxy
   - Chain of Responsibility
   - Command
   - Iterator
   - State
   - Bridge
-  - Builder: 👂 heard
+  - Builder h
   - Prototype
   - Composite
   - Decorator
@@ -85,7 +85,7 @@
   - Mediator
   - Memento
   - Template Method
-  - Visitor: 👂 heard
+  - Visitor h
   - Reactor
   - Active object
   - Delegation

@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🎓 known
+  - Algorithm k
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm: 👂 heard
+  - Paradigm h
   - Programm
   - Programming paradigm
   - Programming language
   - Contract
-  - Module: 🖐️ used
+  - Module u
   - Library
   - Package
   - Component
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value: 🖐️ used
-  - Identifier: 🖐️ used
-  - Variable: 🖐️ used
-  - Constant: 🖐️ used
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
-  - Expression: 🖐️ used
+  - Expression u
   - Heap
-  - Function: 🖐️ used
+  - Function u
   - Procedure
-  - Method: 🖐️ used
-  - Class: 🖐️ used
-  - Prototype: 🖐️ used
-  - Event: 🖐️ used
-  - Type: 🖐️ used
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u
+  - Type u
   - Flag
   - Lexical scope
-  - Code block: 🖐️ used
-  - Conditions: 🖐️ used
-  - Loops: 🖐️ used
+  - Code block u
+  - Conditions u
+  - Loops u
   - Assignment
-  - Regular expression: 🖐️ used
-  - Interface: 🖐️ used
+  - Regular expression u
+  - Interface u
   - Namespaces
-  - Call stack: 🖐️ used
+  - Call stack u
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early: 🖐️ used
+  - Return early u
   - Fail-fast
 - Types
-  - Primitive types: 🖐️ used
-  - Reference types: 🖐️ used
+  - Primitive types u
+  - Reference types u
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,53 +81,53 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🖐️ used
-  - Argument: 🖐️ used
-  - Parameter: 🖐️ used
-  - Pure function: 🖐️ used
-  - Lambda expression: 👂 heard
-  - Side effects: 🖐️ used
-  - Closure: 🖐️ used
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression h
+  - Side effects u
+  - Closure u
   - Partial application
   - Currying
-  - Higher order: 🎓 known
-  - Recursion: 🖐️ used
+  - Higher order k
+  - Recursion u
   - Tail call optimisation
-  - Callback: 🖐️ used
-  - Listener: 🖐️ used
+  - Callback u
+  - Listener u
   - Composition
   - Pipe
-  - Memoize: 🎓 known
+  - Memoize k
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator: 👂 heard
+  - Generator h
   - Coroutine
 - Data structures
-  - Array: 🖐️ used
-  - Structure: 🖐️ used
-  - Record: 🖐️ used
-  - Enum: 🖐️ used
-  - Instance: 🖐️ used
-  - Object: 🖐️ used
-  - Collection: 🖐️ used
-  - Set: 🖐️ used
-  - Hash table: 👂 heard
-  - Linked list: 🎓 known
-  - Doubly list: 🎓 known
+  - Array u
+  - Structure u
+  - Record u
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table h
+  - Linked list k
+  - Doubly list k
   - Unrolled list
-  - Circular list: 🎓 known
-  - Queue: 🎓 known
-  - Stack: 🎓 known
-  - Deque: 🎓 known
-  - Tree: 🎓 known
-  - Graph: 🎓 known
-  - Iterator: 🖐️ used
+  - Circular list k
+  - Queue k
+  - Stack k
+  - Deque k
+  - Tree k
+  - Graph k
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing: 🖐️ used
+  - String parsing u
   - JSON
   - JSON5
   - YAML
@@ -142,12 +142,12 @@
   - URN
   - URI
 - Process and tools
-  - Compiler: 🖐️ used
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler: 👂 heard
-  - Linter: 🖐️ used
-  - Polyfill: 👂 heard
+  - Transpiler h
+  - Linter u
+  - Polyfill h
   - Interpreter
   - Linker
   - Dynamic linking
@@ -159,31 +159,31 @@
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection: 🎓 known
-  - Refactoring: 🖐️ used
-  - Code review: 🖐️ used
-  - Exception: 🖐️ used
-  - Unittesting: 🖐️ used
-  - git: 🖐️ used
-  - Github: 🖐️ used
+  - Garbage collection k
+  - Refactoring u
+  - Code review u
+  - Exception u
+  - Unittesting u
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers: 🖐️ used
-  - Hard code: 🖐️ used
+  - Magic numbers u
+  - Hard code u
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 👂 heard
+  - Spaghetti h
   - Silver bullet
   - Not invented here
-  - Dead code: 👂 heard
-  - Unreachable code: 🖐️ used
-  - Duplicate code: 🖐️ used
+  - Dead code h
+  - Unreachable code u
+  - Duplicate code u
   - Premature optimization
   - Micro-optimization
   - Nested loops
