@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm: 🎓 known
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm: 👂 heard
   - Programm
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
+  - Module: 🖐️ used
   - Library
   - Package
   - Component
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
-  - Expression
+  - Expression: 🖐️ used
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event: 🖐️ used
+  - Type: 🖐️ used
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression
-  - Interface
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
   - Namespaces
-  - Call stack
+  - Call stack: 🖐️ used
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,53 +81,53 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 👂 heard
+  - Side effects: 🖐️ used
+  - Closure: 🖐️ used
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order: 🎓 known
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback: 🖐️ used
+  - Listener: 🖐️ used
   - Composition
   - Pipe
-  - Memoize
+  - Memoize: 🎓 known
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator: 👂 heard
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
+  - Enum: 🖐️ used
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 👂 heard
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
   - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Circular list: 🎓 known
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🎓 known
+  - Tree: 🎓 known
+  - Graph: 🎓 known
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
+  - String parsing: 🖐️ used
   - JSON
   - JSON5
   - YAML
@@ -142,12 +142,12 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
+  - Transpiler: 👂 heard
+  - Linter: 🖐️ used
+  - Polyfill: 👂 heard
   - Interpreter
   - Linker
   - Dynamic linking
@@ -159,31 +159,31 @@
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
+  - Garbage collection: 🎓 known
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🖐️ used
+  - Hard code: 🖐️ used
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code: 👂 heard
+  - Unreachable code: 🖐️ used
+  - Duplicate code: 🖐️ used
   - Premature optimization
   - Micro-optimization
   - Nested loops
